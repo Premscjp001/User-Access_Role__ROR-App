@@ -1,0 +1,12 @@
+# Sample localization file for English. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+en:
+  roles: "Roles"
+  accesses: "Accesses"
+  users: "Users"
+  manage_role_access: "Manage Role-Accesses"
+  manage_user_roles: "Manage User-Roles"
+  sign_out: "Sign out"
+  sign_in: "Sign in"
+  sign_up: "Sign up"
